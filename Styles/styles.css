@@ -84,3 +84,45 @@ nav{
     display: flex;
     justify-content: space-around;
 }
+/* section 3 styles */
+
+.sec3{
+    padding: 40px 0px;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+.cardH3{
+    margin: 15px 0px;
+}
+.cardButton{
+    padding: 5px 0px;
+    margin-top: 15px;
+    background:transparent;
+    border: none;
+    border-bottom: 2px solid black;
+    cursor: pointer;
+
+}
+.sec3Heading{
+    text-align: center;
+    padding: 20px 0px;
+    margin: 20px 0px;
+}
+.sec3Heading h2{
+    margin-bottom: 20px;
+}
+.card1{
+    padding: 20px 15px;
+    background-color: rgba(237, 56, 11, 0.05);
+}
+.card2{
+    background-color: rgba(0, 76, 232, 0.05);
+}
+.card3{
+    background-color: rgba(255, 223, 0, 0.05);
+}
+.cards img{
+    padding-top: 20px;
+}
