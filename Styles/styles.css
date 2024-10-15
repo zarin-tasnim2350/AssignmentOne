@@ -117,10 +117,12 @@ nav{
     padding: 20px 15px;
     background-color: rgba(237, 56, 11, 0.05);
 }
-.card2{
+.card2{    padding: 20px 15px;
+
     background-color: rgba(0, 76, 232, 0.05);
 }
-.card3{
+.card3{    padding: 20px 15px;
+
     background-color: rgba(255, 223, 0, 0.05);
 }
 .cards img{
@@ -144,4 +146,37 @@ nav{
 .layer img{
     height: 55px;
     width: 70px;
+}
+.sec5{
+    background-image: url(../assets/handshake.jpg);
+    max-width: 1140px;
+    margin: 100px auto;
+    padding: 80px 0px;
+    color: white;
+}
+.secFivediv{
+  text-align: center;
+}
+
+.secFivediv h1{
+    margin-bottom: 20px;
+
+}
+.secFivediv p{
+    margin-bottom: 20px;
+}
+
+.inputText{
+    height: 50px;
+    width: 500px;
+}
+.submit{
+    height: 50px;
+    width: 100px;
+}
+/* footer styles */
+.foot{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 200px;
 }
