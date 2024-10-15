@@ -1,0 +1,86 @@
+
+*{
+    margin: 0;
+}
+
+nav{
+    margin: 40px 100px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+
+.btn-download{
+    background-color: white;
+    padding: 10px 15px;
+    border: 1px solid black;
+    border-radius: 8%;
+    cursor: pointer;
+}
+
+/* hero section's style */
+
+.cover{
+    background-image: url(../assets/Hero-bg.png);
+    
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    padding: 30px 0;
+    margin-bottom: 20px;
+
+}
+.heroHeading{
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.contentDiv{
+     text-align: center;
+}
+.btn-contact{
+    padding: 12px 18px;
+    background-color: black;
+    color: white;
+    border-radius: 8%;
+    cursor: pointer;
+}
+
+/* section 2 styles */
+
+.sec2{
+    padding: 40px 0px;
+}
+.heading2{
+    margin: 20px 0px;
+    text-align: center;
+}
+.heading2 h1{
+    margin-bottom: 20px;
+}
+
+.reason1{
+    margin: 30px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+.reasonContent h2{
+    margin-bottom: 20px;
+}
+.reason-button{
+    margin-top: 20px;
+    padding: 12px 28px;
+    cursor: pointer;
+}
+.reason2{
+    margin: 30px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.reason3{
+    display: flex;
+    justify-content: space-around;
+}
