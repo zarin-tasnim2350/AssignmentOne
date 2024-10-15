@@ -126,3 +126,22 @@ nav{
 .cards img{
     padding-top: 20px;
 }
+/* section 4 styles */
+.sec4head{
+    text-align: center;
+    margin: 30px 0px;
+}
+.sec4head h2{
+    margin-bottom: 20px;
+}
+.layer{
+    margin: 30px 0px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.layer img{
+    height: 55px;
+    width: 70px;
+}
